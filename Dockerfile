@@ -17,4 +17,4 @@ ADD files/dnsmasq.conf /etc/dnsmasq.conf
 
 EXPOSE 53
 
-CMD ["/root/dnsmasq_files/default_cmd"]
+CMD ["/root/dnsmasq_files/run.sh"]
