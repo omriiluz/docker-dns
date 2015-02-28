@@ -1,4 +1,4 @@
-# A lightweight DNS service for docker
+## A lightweight DNS service for docker
 
 DNS service auto updating with host container names resolved as A records
 
